@@ -1,0 +1,3 @@
+pytest
+pdfplumber
+reportlab

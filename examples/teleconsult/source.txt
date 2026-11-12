@@ -1,0 +1,5 @@
+crt: teleconsulta hoje, 12/11/2026. paciente Marina Exemplo Teste, 34 anos.
+tosse seca há 5 dias, sem febre, sem falta de ar. não fuma.
+sem exame físico (teleconsulta).
+conduta: loratadina 10 mg 1x ao dia por 5 dias, hidratação. retorno se piorar.
+faz um resumo pro clínico dela.
