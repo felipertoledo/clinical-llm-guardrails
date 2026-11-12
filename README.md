@@ -4,6 +4,8 @@ Deterministic release gate for LLM-drafted clinical documents. Before a referral
 
 Built and used in daily practice by a primary care physician in Brazil. The documents and the patterns are in Brazilian Portuguese; the code comments and this README are in English.
 
+By Felipe Ribeiro Toledo, physician · [LinkedIn](https://www.linkedin.com/in/felipe-toledo-55455440a/) · [GitHub](https://github.com/felipertoledo) · [feliperibeirotoledo@gmail.com](mailto:feliperibeirotoledo@gmail.com)
+
 ![Real run on a synthetic teleconsult](docs/demo.png)
 
 ## The problem
@@ -87,6 +89,6 @@ Both gaps are declared in the code and pinned by tests (`test_limite_declarado_v
 
 Felipe Ribeiro Toledo, physician (CRM-SP 216.986), primary care, São Paulo state, Brazil.
 
-Contact: [GitHub](https://github.com/felipertoledo)
+Contact: [LinkedIn](https://www.linkedin.com/in/felipe-toledo-55455440a/) · [GitHub](https://github.com/felipertoledo) · [feliperibeirotoledo@gmail.com](mailto:feliperibeirotoledo@gmail.com)
 
 Available for clinical AI engineering, LLM evaluation and red teaming, and healthcare AI safety consulting.
