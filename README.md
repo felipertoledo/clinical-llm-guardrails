@@ -86,3 +86,7 @@ Both gaps are declared in the code and pinned by tests (`test_limite_declarado_v
 ## Author
 
 Felipe Ribeiro Toledo, physician (CRM-SP 216.986), primary care, São Paulo state, Brazil.
+
+Contact: [GitHub](https://github.com/felipertoledo)
+
+Available for clinical AI engineering, LLM evaluation and red teaming, and healthcare AI safety consulting.
